@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Dennis 👋
+
+## 
+- 🔭 I’m currently working on EMACS a project of mine
+- 🌱 I’m currently learning Rust and webdevelopment with React or Vue and Node
+- 👯 I’m looking to collaborate on Open Source projects
 
 <!--
 **JolloDede/JolloDede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
