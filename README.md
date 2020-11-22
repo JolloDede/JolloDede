@@ -6,6 +6,8 @@
 - 👯 I’m looking to collaborate on Open Source projects
 
 📊 **This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=JolloDede&hide_title=true&hide_border=true&langs_count=5)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
