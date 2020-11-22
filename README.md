@@ -5,6 +5,9 @@
 - 🌱 I’m currently learning Rust and webdevelopment with React or Vue and Node
 - 👯 I’m looking to collaborate on Open Source projects
 
+📊 **This week I spent my time on**
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=JolloDede&hide_title=true&hide_border=true&langs_count=5)
+
 <!--
 **JolloDede/JolloDede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
