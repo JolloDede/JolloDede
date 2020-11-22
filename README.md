@@ -7,7 +7,6 @@
 
 📊 **This week I spent my time on**
 
-![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/WAKATIME_API_KEY?username=JolloDede&hide_title=true&hide_border=true&langs_count=5)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
