@@ -3,7 +3,7 @@ author: Dennis Lee
 description: "Add a Wakatime Coding Activity graph in your Readme"
 
 inputs:
-    GH_TOKEN:
+  GH_TOKEN:
     description: "GitHub access token with Repo scope"
     required: true
     default: ${{ github.token }}
