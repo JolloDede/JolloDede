@@ -1,0 +1,16 @@
+name: "Waka - Readme"
+author: Dennis Lee
+description: "Add a Wakatime Coding Activity graph in your Readme"
+
+inputs:
+  WAKATIME_API_KEY:
+    description: "Your Wakatime API Key"
+    required: true
+    
+runs:
+  using: "docker"
+  image: "Dockerfile"
+
+branding:
+  icon: "info"
+  color: "blue"
