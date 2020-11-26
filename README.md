@@ -8,6 +8,9 @@
 📊 **This week I spent my time on**
 
 <!--START_SECTION:waka-->
+```text
+Rust   1 min           ████████████████████████░   95.54 % 
+```
 <!--END_SECTION:waka-->
 
 <!--
