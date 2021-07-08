@@ -17,7 +17,7 @@ Markdown     42 mins         █░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-![JolloDede's GitHub stats](https://github-readme-stats.vercel.app/api?username=JolloDede&hide=contribs,prs)
+![JolloDede's GitHub stats](https://github-readme-stats.vercel.app/api?username=JolloDede&hide=contribs,prs&theme=gruvbox)
 
 
 <!--
