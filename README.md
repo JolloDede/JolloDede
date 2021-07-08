@@ -17,6 +17,9 @@ Markdown     42 mins         █░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+![JolloDede's GitHub stats](https://github-readme-stats.vercel.app/api?username=JolloDede&hide=contribs,prs)
+
+
 <!--
 **JolloDede/JolloDede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
