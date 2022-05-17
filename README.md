@@ -1,8 +1,7 @@
 ### Hi there, I'm Dennis 👋
 
 ## 
-- 🔭 I’m currently working on EVAMB a project of mine
-- 🌱 I’m currently learning Rust and webdevelopment with React or Vue and Node
+- 🌱 I’m currently learning Rust and webdevelopment with React and Node
 - 👯 I’m looking to collaborate on Open Source projects
 
 ![JolloDede's GitHub stats](https://github-readme-stats.vercel.app/api?username=JolloDede&theme=midnight-purple)
