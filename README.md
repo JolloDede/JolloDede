@@ -4,17 +4,14 @@
 - 🌱 I’m currently learning Rust and webdevelopment with React and Node
 - 👯 I’m looking to collaborate on Open Source projects
 
-<div id="test">
-    <div id="another" style="display: inline-block">
+<!-- ![JolloDede's GitHub stats](https://github-readme-stats.vercel.app/api?username=JolloDede&theme=midnight-purple)
+![JolloDede's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime/?username=JolloDede&theme=midnight-purple)
+![JolloDede's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JolloDede&hide_border=true&langs_count=8&theme=midnight-purple) -->
 
-![JolloDede's GitHub stats](https://github-readme-stats.vercel.app/api?username=JolloDede&theme=midnight-purple)
-        <div>
-
-[![JolloDede's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime/?username=JolloDede&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-        </div>
-    </div>
-
-<img style="display: inline" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JolloDede&hide_border=true&langs_count=8&theme=midnight-purple" />
+<div style="width: 800px;">
+    <img alt="JolloDede's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JolloDede&theme=midnight-purple">
+    <img alt="JolloDede's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime/?username=JolloDede&theme=midnight-purple">
+    <img alt="JolloDede's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JolloDede&hide_border=true&langs_count=8&theme=midnight-purple">
 </div>
 
 
