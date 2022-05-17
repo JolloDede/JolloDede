@@ -4,11 +4,18 @@
 - 🌱 I’m currently learning Rust and webdevelopment with React and Node
 - 👯 I’m looking to collaborate on Open Source projects
 
+<div>
+    <div style="display: inline">
+
 ![JolloDede's GitHub stats](https://github-readme-stats.vercel.app/api?username=JolloDede&theme=midnight-purple)
-</br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JolloDede&hide_border=true&langs_count=8&theme=midnight-purple" />
+        <div>
 
 [![JolloDede's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime/?username=JolloDede&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+        </div>
+    </div>
+
+<img style="display: inline" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JolloDede&hide_border=true&langs_count=8&theme=midnight-purple" />
+</div>
 
 
 <!--
