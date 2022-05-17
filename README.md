@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning Rust and webdevelopment with React and Node
 - 👯 I’m looking to collaborate on Open Source projects
 
-<div>
-    <div style="display: inline">
+<div id="test">
+    <div id="another" style="display: inline-block">
 
 ![JolloDede's GitHub stats](https://github-readme-stats.vercel.app/api?username=JolloDede&theme=midnight-purple)
         <div>
