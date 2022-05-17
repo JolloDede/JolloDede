@@ -9,8 +9,10 @@
 ![JolloDede's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JolloDede&hide_border=true&langs_count=8&theme=midnight-purple) -->
 
 <div style="width: 800px;">
-    <img alt="JolloDede's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JolloDede&theme=midnight-purple">
-    <img alt="JolloDede's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime/?username=JolloDede&theme=midnight-purple">
+    <div style="display: inline-block; width: 60%;">
+        <img alt="JolloDede's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JolloDede&theme=midnight-purple">
+        <img alt="JolloDede's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime/?username=JolloDede&theme=midnight-purple">
+    </div>
     <img alt="JolloDede's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JolloDede&hide_border=true&langs_count=8&theme=midnight-purple">
 </div>
 
