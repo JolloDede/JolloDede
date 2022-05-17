@@ -8,7 +8,7 @@
 </br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JolloDede&hide_border=true&langs_count=8&theme=midnight-purple" />
 
-[![JolloDede's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JolloDede)](https://github.com/anuraghazra/github-readme-stats&theme=midnight-purple)
+[![JolloDede's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JolloDede?range=last_7_days)](https://github.com/anuraghazra/github-readme-stats&theme=midnight-purple)
 
 
 <!--
