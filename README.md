@@ -4,19 +4,9 @@
 - 🌱 I’m currently learning Rust and webdevelopment with React and Node
 - 👯 I’m looking to collaborate on Open Source projects
 
-<!-- ![JolloDede's GitHub stats](https://github-readme-stats.vercel.app/api?username=JolloDede&theme=midnight-purple)
+![JolloDede's GitHub stats](https://github-readme-stats.vercel.app/api?username=JolloDede&theme=midnight-purple)
 ![JolloDede's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime/?username=JolloDede&theme=midnight-purple)
-![JolloDede's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JolloDede&hide_border=true&langs_count=8&theme=midnight-purple) -->
-
-<div>
-    <div style="display: inline-block; width: 50%;">
-        <img alt="JolloDede's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JolloDede&theme=midnight-purple">
-        <img alt="JolloDede's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime/?username=JolloDede&theme=midnight-purple">
-    </div>
-    <div style="display: inline-block; width: 40%;">
-        <img alt="JolloDede's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JolloDede&hide_border=true&langs_count=8&theme=midnight-purple">
-    </div>
-</div>
+![JolloDede's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JolloDede&hide_border=true&langs_count=8&theme=midnight-purple)
 
 
 <!--
