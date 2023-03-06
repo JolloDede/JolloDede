@@ -1,6 +1,7 @@
 ### Hi there, I'm Dennis 👋
 
 ## 
+- 🔭 I’m currently working on a private project for my gymnastics club (React, Node/Express Backend)
 - 🌱 I’m currently learning Rust and webdevelopment with React and Node
 - 👯 I’m looking to collaborate on Open Source projects
 
